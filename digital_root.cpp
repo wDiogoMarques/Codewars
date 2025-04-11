@@ -1,4 +1,4 @@
-// file:    1day.cpp
+// file:    digital_root.cpp
 // author:  Diogo Marques
 // data:    11/04/2025
 // description:

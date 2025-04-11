@@ -1,4 +1,4 @@
-# file:    1day.py
+# file:    digital_root.py
 # author:  Diogo Marques
 # data:    11/04/2025
 # description:

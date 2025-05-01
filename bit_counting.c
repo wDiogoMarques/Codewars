@@ -21,7 +21,7 @@ size_t countBits(unsigned value)
 int main(){
 
 	size_t bits = countBits(1234);
-	printf("number 1234 has %ld bits\n", bitsoften);
+	printf("number 1234 has %ld bits\n", bits);
 
 	return 0;
 }
